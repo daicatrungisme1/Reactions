@@ -25,19 +25,19 @@
  */
 
 /** Like reaction. */
-"like" = "Like";
+"like" = "いいね！";
 
 /** Love reaction. */
-"love" = "Love";
+"love" = "超いいね！";
 
 /** Haha reaction. */
-"haha" = "Haha";
+"haha" = "うけるね";
 
 /** Wow reaction. */
-"wow" = "Wow";
+"wow" = "すごいね";
 
 /** Sad reaction. */
-"sad" = "Sad";
+"sad" = "悲しいね";
 
 /** Angry reaction. */
-"angry" = "Angry";
+"angry" = "ひどいね";
